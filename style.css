@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Oswald:wght@500&display=swap');
+
 body{
     background-color: aquamarine;
 }
@@ -8,13 +10,14 @@ div{
 } 
 
 h1{
-    font-size: 30pt;
+    font-size: 34pt;
     background-color: wheat;
     padding: 10px;
     width: fit-content;
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Oswald', sans-serif;
 }
 
 p{
@@ -25,4 +28,22 @@ p{
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Merriweather', serif;
+}
+
+a{
+    color: rgb(255, 0, 0);
+    font-size: 16pt;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(255, 94, 0);
+    text-decoration: underline;
+    font-size: 17pt;
+}
+
+span{
+    color: rgb(17, 0, 248);
+    font-size: 18pt;
 }
