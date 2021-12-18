@@ -47,3 +47,20 @@ span{
     color: rgb(17, 0, 248);
     font-size: 18pt;
 }
+
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    border: 3px  solid black;
+    padding: 0px;
+}
+
+.cel{
+    width: 120px;
+    height: 120px;
+    display: block;
+}
