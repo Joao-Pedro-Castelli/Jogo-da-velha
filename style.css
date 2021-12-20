@@ -55,7 +55,7 @@ table{
 }
 
 td{
-    border: 3px  solid black;
+    border: 3px  solid rgb(0, 0, 0);
     padding: 0px;
 }
 
@@ -63,4 +63,9 @@ td{
     width: 120px;
     height: 120px;
     display: block;
+}
+
+button{
+    font-size: 15pt;
+    font-family: 'Merriweather', serif;
 }
