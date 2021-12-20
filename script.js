@@ -46,7 +46,7 @@ function resultado()
     }
     if((space[0] == 'O' && space[1] == 'O' && space[2] == 'O') || (space[3] == 'O' && space[4] == 'O' && space[5] == 'O') || (space[6] == 'O' && space[7] == 'O' && space[8] == 'O') || (space[0] == 'O' && space[3] == 'O' && space[6] == 'O') || (space[1] == 'O' && space[4] == 'O' && space[7] == 'O') || (space[2] == 'O' && space[5] == 'O' && space[8] == 'O') || (space[0] == 'O' && space[4] == 'O' && space[8] == 'O') || (space[2] == 'O' && space[4] == 'O' && space[6] == 'O'))
     {
-        tex.innerHTML = 'Jogador X venceu! <br/> Para saber mais sobre o Jogo da Velha, <a href="https://pt.wikipedia.org/wiki/Jogo_da_velha" target="_blank">clique aqui</a>.'
+        tex.innerHTML = 'Jogador O venceu! <br/> Para saber mais sobre o Jogo da Velha, <a href="https://pt.wikipedia.org/wiki/Jogo_da_velha" target="_blank">clique aqui</a>.'
         jogador = null
     }
 }
