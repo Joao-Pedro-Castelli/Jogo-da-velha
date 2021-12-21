@@ -3,7 +3,7 @@
 
 --- 
 
-Infelizmente, não é online, mas essa ideia foi um projeto bem divertido. Estou aprendendo as linguagens de programação ainda e uso o jogo da velha como um desafio para eu fazer numa linguagem que acabei de aprender.
+Infelizmente, não é online, mas essa ideia foi um projeto bem divertido. Estou aprendendo as linguagens de programação (com Gustavo Guanabara em Curso Em Vídeo) ainda e uso o jogo da velha como um desafio para eu fazer numa linguagem que acabei de aprender.
 
 ---
 
